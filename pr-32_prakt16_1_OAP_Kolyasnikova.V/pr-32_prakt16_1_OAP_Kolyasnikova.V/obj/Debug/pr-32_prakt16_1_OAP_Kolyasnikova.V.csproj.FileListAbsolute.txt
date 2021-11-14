@@ -1,0 +1,7 @@
+D:\Distant\OAP\08.11.2021-13.11.2021\P.R_16\pr-32_prakt16_1_OAP_Kolyasnikova.V\pr-32_prakt16_1_OAP_Kolyasnikova.V\bin\Debug\pr-32_prakt16_1_OAP_Kolyasnikova.V.exe.config
+D:\Distant\OAP\08.11.2021-13.11.2021\P.R_16\pr-32_prakt16_1_OAP_Kolyasnikova.V\pr-32_prakt16_1_OAP_Kolyasnikova.V\bin\Debug\pr-32_prakt16_1_OAP_Kolyasnikova.V.exe
+D:\Distant\OAP\08.11.2021-13.11.2021\P.R_16\pr-32_prakt16_1_OAP_Kolyasnikova.V\pr-32_prakt16_1_OAP_Kolyasnikova.V\bin\Debug\pr-32_prakt16_1_OAP_Kolyasnikova.V.pdb
+D:\Distant\OAP\08.11.2021-13.11.2021\P.R_16\pr-32_prakt16_1_OAP_Kolyasnikova.V\pr-32_prakt16_1_OAP_Kolyasnikova.V\obj\Debug\pr-32_prakt16_1_OAP_Kolyasnikova.V.csproj.AssemblyReference.cache
+D:\Distant\OAP\08.11.2021-13.11.2021\P.R_16\pr-32_prakt16_1_OAP_Kolyasnikova.V\pr-32_prakt16_1_OAP_Kolyasnikova.V\obj\Debug\pr-32_prakt16_1_OAP_Kolyasnikova.V.csproj.CoreCompileInputs.cache
+D:\Distant\OAP\08.11.2021-13.11.2021\P.R_16\pr-32_prakt16_1_OAP_Kolyasnikova.V\pr-32_prakt16_1_OAP_Kolyasnikova.V\obj\Debug\pr-32_prakt16_1_OAP_Kolyasnikova.V.exe
+D:\Distant\OAP\08.11.2021-13.11.2021\P.R_16\pr-32_prakt16_1_OAP_Kolyasnikova.V\pr-32_prakt16_1_OAP_Kolyasnikova.V\obj\Debug\pr-32_prakt16_1_OAP_Kolyasnikova.V.pdb
